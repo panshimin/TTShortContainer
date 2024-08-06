@@ -1,0 +1,40 @@
+PODS:
+  - IGListDiffKit (5.0.0)
+  - IGListKit (5.0.0):
+    - IGListDiffKit (= 5.0.0)
+  - LookinServer (1.2.8):
+    - LookinServer/Core (= 1.2.8)
+  - LookinServer/Core (1.2.8)
+  - MJExtension (3.4.2)
+  - SDWebImage (5.19.4):
+    - SDWebImage/Core (= 5.19.4)
+  - SDWebImage/Core (5.19.4)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - IGListKit (~> 5.0.0)
+  - LookinServer
+  - MJExtension
+  - SDWebImage (~> 5.0)
+  - SnapKit (~> 5.7.0)
+
+SPEC REPOS:
+  trunk:
+    - IGListDiffKit
+    - IGListKit
+    - LookinServer
+    - MJExtension
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  IGListDiffKit: 02d937d7e714d6f558771f284ed80668d483b522
+  IGListKit: baf7e87b4c2262cd569c380e46ca5667a4a82c82
+  LookinServer: 1b2b61c6402ae29fa22182d48f5cd067b4e99e80
+  MJExtension: e97d164cb411aa9795cf576093a1fa208b4a8dd8
+  SDWebImage: 066c47b573f408f18caa467d71deace7c0f8280d
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 3d3e843e1e267a59642df51cc34a7d3b79ccae2b
+
+COCOAPODS: 1.15.2
